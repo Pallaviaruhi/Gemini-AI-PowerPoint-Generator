@@ -1,5 +1,5 @@
 # Gemini-AI-PowerPoint-Generator
-## 🚀 Overview
+## Overview
 
 This project is an **AI-powered PowerPoint Generator** that leverages Google Gemini's advanced language models to automatically create high-quality, engaging presentation slides from any topic. Whether you’re a student, educator, or business professional, this tool saves valuable time and enhances the quality of your presentations.
 
@@ -7,7 +7,7 @@ This project is an **AI-powered PowerPoint Generator** that leverages Google Gem
 
 As a Machine Learning enthusiast, I created this tool to simplify complex tasks using the power of generative AI. By automating slide creation, it boosts not only efficiency but also the informativeness and engagement level of your presentations.
 
-##  Technologies Used
+## Technologies Used
 
 - **Python**
 - **Google Gemini AI** (`google-generativeai`)
@@ -17,7 +17,7 @@ As a Machine Learning enthusiast, I created this tool to simplify complex tasks 
 - **dotenv**
 - Other supporting Python libraries
 
-##  Features
+## Features
 
 - **AI-powered content generation**: Uses Gemini Pro to build detailed, structured presentation outlines based on your chosen topic.
 - **Professional slide layouts**: Automatically formats each slide with titles, content, and images.
@@ -33,7 +33,7 @@ As a Machine Learning enthusiast, I created this tool to simplify complex tasks 
 3. **Visual Enhancement**: Images relevant to each slide can be fetched and embedded automatically.
 4. **Output**: A fully formatted `.pptx` file ready for download and editing.
 
-## 🚀 Quickstart
+## Quickstart
 
 1. Clone the repository
 2. Install the required dependencies:
@@ -43,13 +43,13 @@ As a Machine Learning enthusiast, I created this tool to simplify complex tasks 
 3. Set up your [Google Gemini AI API key](https://ai.google.dev/)
 4. Launch and follow the steps in `PPTGenerator.ipynb`
 
-## 📝 Example
+## Example
 
 Generates a complete presentation (e.g., "Artificial Intelligence in Healthcare") with:
 - Introduction, applications, benefits, ethical challenges, and a compelling conclusion
 - Professionally formatted slides, all created with a single command
 
-## 📂 File Structure
+## File Structure
 
 - `PPTGenerator.ipynb` — Interactive notebook with code and demo
 - `ppt_generator.py` — Core code (can be modularized)
